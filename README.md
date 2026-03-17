@@ -46,5 +46,10 @@ python app.py
 - ArcFace model (~130MB) downloads automatically on first run
 - Press Q to exit
 
+## if getting error try
+pip install --upgrade pip
+
+pip install --upgrade deepface tensorflow
+
 ## Author
 Soutak Biswas
