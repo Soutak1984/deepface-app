@@ -21,7 +21,9 @@ python 3.12
 git clone https://github.com/Soutak1984/deepface-app.git
 
 cd deepface-app
-
+python -m venv venv
+venv\Scripts\activate
+or  python -m venv venv && venv\Scripts\activate && pip install -r requirements.txt
 install.bat
 
 ### Linux / Raspberry Pi
