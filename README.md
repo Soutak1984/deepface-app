@@ -5,6 +5,8 @@ A simple yet powerful **real-time face recognition system** built using:
 - DeepFace (ArcFace model)
 - OpenCV
 - Python
+## Required
+python 3.12
 
 ## Features
 - Multi-face detection
@@ -17,13 +19,18 @@ A simple yet powerful **real-time face recognition system** built using:
 
 ### Windows
 git clone https://github.com/Soutak1984/deepface-app.git
+
 cd deepface-app
+
 install.bat
 
 ### Linux / Raspberry Pi
 git clone https://github.com/Soutak1984/deepface-app.git
+
 cd deepface-app
+
 chmod +x install.sh
+
 ./install.sh
 
 ## Run
